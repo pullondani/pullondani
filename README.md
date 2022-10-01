@@ -1,7 +1,9 @@
 
 Hi!
 
-My name is Daniel, I am currently working as an Analyst Developer for FNZ.
+My name is Daniel,
+
+I am currently working as a full time Software Developer.
 
 In my GitHub repository I currently have some small personal projects alongside projects I completed during my studies.
 
